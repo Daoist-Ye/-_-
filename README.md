@@ -1,9 +1,11 @@
 
 ## Task 1
 
-# Age Calculator
+## Project: Age Calculator
 
 This Age Calculator is a simple web application that allows users to calculate their age based on their date of birth (DOB). Users can input their DOB, click the "Calculate Age" button, and the application will display their age in years, months, and days.
+
+This project is hosted live at [https://codealpha-agecalculator.netlify.app/](https://codealpha-agecalculator.netlify.app/).
 
 ## Features
 
