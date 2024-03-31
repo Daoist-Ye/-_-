@@ -1,6 +1,6 @@
-# 🚀 Sigma Events
+# 🚀 VenueVerse Events
 
-Welcome to Sigma Events, an easy-to-use website for organizing and participating in events hassle-free. Check it out <a href="https://EventManager.netlify.app/"><kbd>here</kbd></a>.
+Welcome to VenueVerse Events, an easy-to-use website for organizing and participating in events hassle-free. 
 
 This project simplifies event planning and participation with an intuitive and user-friendly interface, built using Next.js, Tailwind CSS, and MongoDB.
 
@@ -15,7 +15,7 @@ This project simplifies event planning and participation with an intuitive and u
 
 ## 🛠️ Setting Up Sigma Events Locally
 
-To set up Sigma Events locally on your machine, follow these steps:
+To set up VenueVerse Events locally on your machine, follow these steps:
 
 ### 1. Clone the Repository
 
